@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 3fdb8131-6148-6738-aed2-aea9b1cebd71
 ---
@@ -67,7 +70,7 @@ Review vector operators; Maxwell's differential equations (t), E, H, uniform pla
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Poynting theorem derivation (time), UPW example (we, wm, S(t))
+Poynting theorem derivation (time), UPW example (w{{< sub "e" >}}, w{{< sub "m" >}}, S(t))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_013s09_lec04))
@@ -169,7 +172,7 @@ TE at planar boundary, TM by duality, Brewster's angle
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-Device and line delays; TEM parallel-plate line, telegraphers' equation, Zo
+Device and line delays; TEM parallel-plate line, telegraphers' equation, Z{{< sub "o" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_013s09_lec11))
@@ -211,7 +214,7 @@ Architecture, generalized TEM line, Ζ(z), Γ(z), Ζ transformations
 L14
 {{< tdclose >}}
 {{< tdopen >}}
-RLC resonators, series, parallel, ωo, ∆ω, α, QL, QI, QE, coupling
+RLC resonators, series, parallel, ω{{< sub "o" >}}, ∆ω, α, Q{{< sub "L" >}}, Q{{< sub "I" >}}, Q{{< sub "E" >}}, coupling
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_013s09_lec14))
@@ -223,7 +226,7 @@ RLC resonators, series, parallel, ωo, ∆ω, α, QL, QI, QE, coupling
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-TEM resonators, we(t), wm(t), Q, ∆ω, examples; |V(z,f)|
+TEM resonators, w{{< sub "e" >}}(t), w{{< sub "m" >}}(t), Q, ∆ω, examples; |V(z,f)|
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_013s09_lec15))
@@ -235,7 +238,7 @@ TEM resonators, we(t), wm(t), Q, ∆ω, examples; |V(z,f)|
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-TEmn rectangular waveguide, cavity resonators, perturbations
+TE{{< sub "mn" >}} rectangular waveguide, cavity resonators, perturbations
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_013s09_lec16))
@@ -253,7 +256,7 @@ TEmn rectangular waveguide, cavity resonators, perturbations
 L17
 {{< tdclose >}}
 {{< tdopen >}}
-Conservation of energy, power, G(θ,φ), Ae\= Gλ2 /4π, Rr, VTh, RF links
+Conservation of energy, power, G(θ,φ), A{{< sub "e" >}}\= Gλ{{< sup "2" >}} /4π, R{{< sub "r" >}}, V{{< sub "Th" >}}, RF links
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_013s09_lec17))
@@ -277,7 +280,7 @@ Radiation by current elements, Hertzian dipole, near and far fields; Biot-Savart
 L19
 {{< tdclose >}}
 {{< tdopen >}}
-Receiving antennas: VTh in dipoles and loops; d<<λ/2π, G = 4πA/λ2
+Receiving antennas: V{{< sub "Th" >}} in dipoles and loops; d\<\<λ/2π, G = 4πA/λ{{< sup "2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_013s09_lec19))

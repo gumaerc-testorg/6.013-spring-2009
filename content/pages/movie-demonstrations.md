@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Movie Demonstrations
 uid: 5a717f3c-cfff-e7aa-8019-9714433617bd
 ---
