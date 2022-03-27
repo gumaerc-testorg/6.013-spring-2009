@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 70e86683-53f3-08f3-03f7-503d4e4e3f60
 resourcetype: Document
 title: MIT6_013S09_sol_quiz02.pdf
 uid: bad07b1a-d6f1-0fdb-d79f-99e521377d30

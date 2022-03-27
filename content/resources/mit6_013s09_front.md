@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 31f14fa4-1ee6-0358-6058-4feee6a7f484
 resourcetype: Document
 title: MIT6_013S09_front.pdf
 uid: c22bd6cd-0612-592d-69f6-1fa534acb72f

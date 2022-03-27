@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cb22634f-94d3-4e0a-9d8c-c4747d9ac415
 resourcetype: Document
 title: MIT6_013S09_sol_pset03.pdf
 uid: 378d506c-d35e-2e45-3edc-301993e73862

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3fdb8131-6148-6738-aed2-aea9b1cebd71
 resourcetype: Document
 title: MIT6_013S09_res_maxwell.pdf
 uid: 5ba99991-70b7-65b7-d1f1-a4b9936af3bc

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 70e86683-53f3-08f3-03f7-503d4e4e3f60
 resourcetype: Document
 title: MIT6_013S09_eqn_exam.pdf
 uid: 398b7fe0-dba6-1a18-57e9-71c8590e3ea7
