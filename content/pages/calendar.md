@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, demonstrations,
+  quizzes, and problem set due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: be2b1018-dfa8-5ce3-6c30-b1bff5303f00
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides information on the course's lecture (L) and recitation (R) sessions.

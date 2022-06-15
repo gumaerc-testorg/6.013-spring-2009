@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the course exams, solutions, and equation sheets.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
 title: Exams
 uid: 70e86683-53f3-08f3-03f7-503d4e4e3f60
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -27,11 +32,11 @@ EXAMS
 {{< tdopen >}}
 
 
-Quiz ([PDF]({{< baseurl >}}/resources/mit6_013s09_quiz01))
+Quiz ({{% resource_link b0583d12-e094-e5ed-843d-30b00f4d71cd "PDF" %}})
 
-Solutions ([PDF]({{< baseurl >}}/resources/mit6_013s09_sol_quiz01))
+Solutions ({{% resource_link 0e66824d-7ae7-c02e-9f4e-00d1ed0e8c34 "PDF" %}})
 
-Equation sheet ([PDF]({{< baseurl >}}/resources/mit6_013s09_eqn_quiz1))
+Equation sheet ({{% resource_link 603995e1-cd41-f847-070c-b16ba007bc80 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -47,11 +52,11 @@ Equation sheet ([PDF]({{< baseurl >}}/resources/mit6_013s09_eqn_quiz1))
 {{< tdopen >}}
 
 
-Quiz ([PDF]({{< baseurl >}}/resources/mit6_013s09_quiz02))
+Quiz ({{% resource_link 230b8ec6-f596-6445-bae9-6b4221945639 "PDF" %}})
 
-Solutions ([PDF]({{< baseurl >}}/resources/mit6_013s09_sol_quiz02))
+Solutions ({{% resource_link bad07b1a-d6f1-0fdb-d79f-99e521377d30 "PDF" %}})
 
-Equation sheet ([PDF]({{< baseurl >}}/resources/mit6_013s09_eqn_quiz2))
+Equation sheet ({{% resource_link 232f8349-7167-a7d9-ac0e-e8d6e8b6c4ac "PDF" %}})
 
 
 {{< tdclose >}}
@@ -67,11 +72,11 @@ Equation sheet ([PDF]({{< baseurl >}}/resources/mit6_013s09_eqn_quiz2))
 {{< tdopen >}}
 
 
-Exam ([PDF]({{< baseurl >}}/resources/mit6_013s09_exam))
+Exam ({{% resource_link 3a5abd06-377d-32df-c734-5a54fdbbc898 "PDF" %}})
 
-Solutions ([PDF]({{< baseurl >}}/resources/mit6_013s09_sol_exam))
+Solutions ({{% resource_link 4cf10622-61ae-96dc-4654-8bfac86260e6 "PDF" %}})
 
-Equation sheet ([PDF]({{< baseurl >}}/resources/mit6_013s09_eqn_exam))
+Equation sheet ({{% resource_link 398b7fe0-dba6-1a18-57e9-71c8590e3ea7 "PDF" %}})
 
 
 {{< tdclose >}}
