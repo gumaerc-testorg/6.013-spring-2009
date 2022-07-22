@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section contains the course notes, Electromagnetics and Applications,
+  by David Staelin.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 31f14fa4-1ee6-0358-6058-4feee6a7f484
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains the course notes, _Electromagnetics and Applications_, by David Staelin.
@@ -24,7 +33,7 @@ FILES
 Complete course notes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.3MB]({{< baseurl >}}/resources/mit6_013s09_notes))
+({{% resource_link d3be4ea7-8b03-6a63-6223-0fb41780cf54 "PDF - 5.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +42,7 @@ Complete course notes
 Front matter: Table of contents, preface
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_front))
+({{% resource_link c22bd6cd-0612-592d-69f6-1fa534acb72f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +51,7 @@ Front matter: Table of contents, preface
 Chapter 1: Introduction to electromagnetics and electromagnetic fields
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap01))
+({{% resource_link e9ef492a-eee2-3151-7378-a218210a7dd0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +60,7 @@ Chapter 1: Introduction to electromagnetics and electromagnetic fields
 Chapter 2: Introduction to electrodynamics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap02))
+({{% resource_link 5d9f5c06-b6e8-2844-f599-79eeb093388c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +69,7 @@ Chapter 2: Introduction to electrodynamics
 Chapter 3: Electromagnetic fields in simple devices and circuits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap03))
+({{% resource_link be09fe40-701d-8ba0-37dd-c18fea301449 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +78,7 @@ Chapter 3: Electromagnetic fields in simple devices and circuits
 Chapter 4: Static and quasistatic fields
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap04))
+({{% resource_link 6161c652-ae20-51e0-5a00-1cfe8350457c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +87,7 @@ Chapter 4: Static and quasistatic fields
 Chapter 5: Electromagnetic forces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap05))
+({{% resource_link 2f3c96fa-df18-496b-7093-4702d7785cf6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +96,7 @@ Chapter 5: Electromagnetic forces
 Chapter 6: Actuators and sensors, motors and generators
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap06))
+({{% resource_link e1633971-4624-7bc4-558e-1acfa8ff74d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +105,7 @@ Chapter 6: Actuators and sensors, motors and generators
 Chapter 7: TEM transmission lines
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap07))
+({{% resource_link 790b8f65-3287-23ec-194c-b440b303f8fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +114,7 @@ Chapter 7: TEM transmission lines
 Chapter 8: Fast electronics and transient behavior on TEM lines
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap08))
+({{% resource_link f52f07ed-81b6-6433-1bee-2fec67df7db6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +123,7 @@ Chapter 8: Fast electronics and transient behavior on TEM lines
 Chapter 9: Electromagnetic waves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap09))
+({{% resource_link 318e0255-11f2-c95b-b95b-6322b30f9c06 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +132,7 @@ Chapter 9: Electromagnetic waves
 Chapter 10: Antennas and radiation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap10))
+({{% resource_link 1b0b8fcc-bc37-c908-9f31-3dc459bf0b14 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +141,7 @@ Chapter 10: Antennas and radiation
 Chapter 11: Common antennas and applications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap11))
+({{% resource_link 24237639-e2c7-90ed-ce18-c714615f566f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +150,7 @@ Chapter 11: Common antennas and applications
 Chapter 12: Optical communications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap12))
+({{% resource_link 0559e0c4-8d1e-0626-3686-74fd985d2b61 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +159,7 @@ Chapter 12: Optical communications
 Chapter 13: Acoustics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_chap13))
+({{% resource_link 50a609ff-2cc9-9240-1a09-9bca53801474 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +168,7 @@ Chapter 13: Acoustics
 Back matter: Appendices, index
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_013s09_back))
+({{% resource_link 6fa0dd1b-76ca-434b-aefa-294742476195 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

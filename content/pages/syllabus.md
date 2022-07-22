@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, outcomes,
+  meeting times, prerequisites, text, quizzes, homework, tutorials, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 30fcb4f0-566b-c8f4-9d8d-0aea4e3a91b2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -65,7 +73,7 @@ In most cases students will derive these results from Maxwell's equations and th
 Text
 ----
 
-Complete course notes are available in the [Readings]({{< baseurl >}}/pages/readings) section.
+Complete course notes are available in the {{% resource_link 31f14fa4-1ee6-0358-6058-4feee6a7f484 "Readings" %}} section.
 
 The following text can be used as a resource:
 

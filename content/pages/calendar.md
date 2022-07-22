@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, demonstrations,
+  quizzes, and problem set due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: be2b1018-dfa8-5ce3-6c30-b1bff5303f00
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides information on the course's lecture (L) and recitation (R) sessions.
@@ -132,7 +140,7 @@ Slinky
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Poynting theorem derivation (time), UPW example (we, wm, S(t))
+Poynting theorem derivation (time), UPW example (w{{< sub "e" >}}, w{{< sub "m" >}}, S(t))
 {{< tdclose >}}
 {{< tdopen >}}
 Helmholtz
@@ -162,7 +170,7 @@ Inductors, solenoidal; τ = L/R; vector operators; planar, cylindrical, spherica
 R5
 {{< tdclose >}}
 {{< tdopen >}}
-Show we = CV2/2, wm = LI2/2; toroidal inductors, inductors with gaps, transformers
+Show w{{< sub "e" >}} = CV{{< sup "2" >}}/2, w{{< sub "m" >}} = LI{{< sup "2" >}}/2; toroidal inductors, inductors with gaps, transformers
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -384,7 +392,7 @@ Brewster's angle
 R12
 {{< tdclose >}}
 {{< tdopen >}}
-Derive vp, vg for 2 sines, plasma example, power and energy examples
+Derive v{{< sub "p" >}}, v{{< sub "g" >}} for 2 sines, plasma example, power and energy examples
 {{< tdclose >}}
 {{< tdopen >}}
 Dispersion video
@@ -405,7 +413,7 @@ Dispersion video
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-Device and line delays; TEM parallel-plate line, telegraphers' equation, Zo
+Device and line delays; TEM parallel-plate line, telegraphers' equation, Z{{< sub "o" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Fluorescent
@@ -501,7 +509,7 @@ Gamma plane, Smith chart, VSWR
 L14
 {{< tdclose >}}
 {{< tdopen >}}
-RLC resonators, series, parallel, ωo, ∆ω, α, QL, QI, QE, coupling
+RLC resonators, series, parallel, ω{{< sub "o" >}}, ∆ω, α, Q{{< sub "L" >}}, Q{{< sub "I" >}}, Q{{< sub "E" >}}, coupling
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -516,7 +524,7 @@ RLC resonators, series, parallel, ωo, ∆ω, α, QL, QI, QE, coupling
 R16
 {{< tdclose >}}
 {{< tdopen >}}
-Smith chart, single-stub tuning, Yn(z), λ/4 transformer
+Smith chart, single-stub tuning, Y{{< sub "n" >}}(z), λ/4 transformer
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -531,7 +539,7 @@ Smith chart, single-stub tuning, Yn(z), λ/4 transformer
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-TEM resonators, we(t), wm(t), Q, ∆ω, examples; |V(z,f)|
+TEM resonators, w{{< sub "e" >}}(t), w{{< sub "m" >}}(t), Q, ∆ω, examples; |V(z,f)|
 {{< tdclose >}}
 {{< tdopen >}}
 Coupled resonator video
@@ -546,7 +554,7 @@ Problem set 8 out
 R17
 {{< tdclose >}}
 {{< tdopen >}}
-TE, TM parallel plate waveguide, kx, ky, **E**, **H**, vg, vp, cutoff, evanescence; waveguide movies
+TE, TM parallel plate waveguide, k{{< sub "x" >}}, k{{< sub "y" >}}, **E**, **H**, v{{< sub "g" >}}, v{{< sub "p" >}}, cutoff, evanescence; waveguide movies
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -561,7 +569,7 @@ TE, TM parallel plate waveguide, kx, ky, **E**, **H**, vg, vp, cutoff, evanescen
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-TEmn rectangular waveguide, cavity resonators, perturbations
+TE{{< sub "mn" >}} rectangular waveguide, cavity resonators, perturbations
 {{< tdclose >}}
 {{< tdopen >}}
 Cavity resonator perturbation
@@ -597,7 +605,7 @@ TM waveguides, field sketches, Poynting vector; examples from L16
 L17
 {{< tdclose >}}
 {{< tdopen >}}
-Conservation of energy, power, G(θ,φ), Ae\= Gλ2/4π, Rr, VTh, RF links
+Conservation of energy, power, G(θ,φ), A{{< sub "e" >}}\= Gλ{{< sup "2" >}}/4π, R{{< sub "r" >}}, V{{< sub "Th" >}}, RF links
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -702,7 +710,7 @@ Wire antennas, wire arrays
 L19
 {{< tdclose >}}
 {{< tdopen >}}
-Receiving antennas: VTh in dipoles and loops; d<<λ/2π, G = 4πA/λ2
+Receiving antennas: V{{< sub "Th" >}} in dipoles and loops; d\<\<λ/2π, G = 4πA/λ{{< sup "2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Yagi antenna
@@ -783,7 +791,7 @@ Problem set 12 out
 R25
 {{< tdclose >}}
 {{< tdopen >}}
-Waveguide dispersion (vg and vp in fiber waveguides), optical link examples
+Waveguide dispersion (v{{< sub "g" >}} and v{{< sub "p" >}} in fiber waveguides), optical link examples
 {{< tdclose >}}
 {{< tdopen >}}
  
