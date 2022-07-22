@@ -6,6 +6,7 @@ file: /courses/6-013-electromagnetics-and-applications-spring-2009/6fa0dd1b76ca4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the appendices related to electromagnetics and its applications.
-

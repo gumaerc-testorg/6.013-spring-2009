@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-013-electromagnetics-and-applications-spring-2009/247f61e817b2c0a577e08bb1b8819d74_array.m.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Movie Demonstrations
 parent_type: CourseSection

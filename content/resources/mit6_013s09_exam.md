@@ -6,6 +6,7 @@ file: /courses/6-013-electromagnetics-and-applications-spring-2009/3a5abd06377d3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to capacitance, conductance, impedance and voltage.
-
