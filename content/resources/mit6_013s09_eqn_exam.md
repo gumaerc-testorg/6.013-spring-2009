@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a list of basic equations for final exam.
 file: /courses/6-013-electromagnetics-and-applications-spring-2009/398b7fe0dba61a1857e971c8590e3ea7_MIT6_013S09_eqn_exam.pdf
+file_size: 131004
 file_type: application/pdf
 learning_resource_types:
 - Exams
