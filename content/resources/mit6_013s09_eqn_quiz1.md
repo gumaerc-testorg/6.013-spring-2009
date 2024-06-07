@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a list of basic equations of electrodynamics.
 file: /courses/6-013-electromagnetics-and-applications-spring-2009/603995e1cd41f847070cb16ba007bc80_MIT6_013S09_eqn_quiz1.pdf
+file_size: 55008
 file_type: application/pdf
 learning_resource_types:
 - Exams
