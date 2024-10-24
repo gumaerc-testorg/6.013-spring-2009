@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   wavelength, voltage and transmission.
-file: /courses/6-013-electromagnetics-and-applications-spring-2009/906d56bc12e9e146378e1108da63de7a_MIT6_013S09_sol_pset05.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-spring-2009/906d56bc12e9e146378e1108da63de7a_MIT6_013S09_sol_pset05.pdf
 file_size: 236924
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to capacitance, conductance,
   impedance and voltage.
-file: /courses/6-013-electromagnetics-and-applications-spring-2009/3a5abd06377d32dfc7345a54fdbbc898_MIT6_013S09_exam.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-spring-2009/3a5abd06377d32dfc7345a54fdbbc898_MIT6_013S09_exam.pdf
 file_size: 147773
 file_type: application/pdf
 learning_resource_types:
