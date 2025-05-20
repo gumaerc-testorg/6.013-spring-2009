@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   magnitude, propagation velocity, and smith chart.
-file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-spring-2009/509f382ecb3acee3297dbf8255c0a772_MIT6_013S09_sol_pset07.pdf
+file: /courses/6-013-electromagnetics-and-applications-spring-2009/509f382ecb3acee3297dbf8255c0a772_MIT6_013S09_sol_pset07.pdf
 file_size: 2924373
 file_type: application/pdf
 learning_resource_types:
