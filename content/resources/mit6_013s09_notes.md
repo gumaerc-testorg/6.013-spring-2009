@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the total course notes related to electromagnetics
   and its applications.
-file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-spring-2009/d3be4ea78b036a6362230fb41780cf54_MIT6_013S09_notes.pdf
+file: /courses/6-013-electromagnetics-and-applications-spring-2009/d3be4ea78b036a6362230fb41780cf54_MIT6_013S09_notes.pdf
 file_size: 5605354
 file_type: application/pdf
 learning_resource_types:
