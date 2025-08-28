@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the appendices related to electromagnetics and
   its applications.
-file: /courses/6-013-electromagnetics-and-applications-spring-2009/6fa0dd1b76ca434baefa294742476195_MIT6_013S09_back.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-spring-2009/6fa0dd1b76ca434baefa294742476195_MIT6_013S09_back.pdf
 file_size: 266348
 file_type: application/pdf
 learning_resource_types:
